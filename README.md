@@ -3,6 +3,33 @@
 
 ![Screen Shot 2023-04-05 at 1 31 21 pm](https://user-images.githubusercontent.com/113433410/229974659-90011af1-fed2-48bc-a19c-74ded0291111.jpg)
 
+Table of Contents
+=================
+	* [Executive Summary]
+	* [Objectives]
+	* [Program Design]
+	* [Pricing and Risk Mitigation]
+	  * [Pricing for Involuntary Relocation]
+	  * [Pricing for Voluntary Relocation]
+	  * [Results]
+	* [Risk Considerations]
+	  * [Risks and Mitigation]
+	  * [Severity Ranking for Risks]
+	  * [Costs with and without the program]
+	  * [10% of GDP requirement]
+	* [Assumptions]
+	* [Data and Data Limitations]
+	* [References]
+
+# Case Story
+
+Storslysia has a diverse geography with various regions that are susceptible to a wide range of
+climate – related catastrophes and natural disasters. Climate change will cause the impacts of the
+disaster to increase overtime and poses the constant of displacement to the residents. To mitigate
+these risk and minimise financial losses due to mass displacement ASBN has been tasked to design
+a social insurance program for relocation. The proposed program is divided into two parts, one for
+voluntary relocation and another for involuntary relocation which will be explored below.  
+
 # Executive Summary
 
 ABSN Consulting has been given the task of developing a social insurance program for the 

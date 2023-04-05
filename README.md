@@ -1,6 +1,8 @@
 
 # Group ABSN Case Report
 
+![338643002_1220892358787436_1537389726704688137_n](https://user-images.githubusercontent.com/113433410/229973917-7cc79d2b-c6a7-4821-bb96-5cffadb35c7c.jpg)
+
 # Executive Summary
 
 ABSN Consulting has been given the task of developing a social insurance program for the 

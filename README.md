@@ -337,7 +337,7 @@ every year, so this program may be a bit more
 expensive than the previous program. The past
 property damage is visible in Figure 5 below.
 
-![Screen Shot 2023-04-05 at 12 02 23 pm](https://user-images.githubusercontent.com/113433410/229973436-a3ef4789-998e-4e16-9528-d4bd04a53001.jpg)
+![338830327_214214061215786_6072662416248683933_n](https://user-images.githubusercontent.com/113433410/229975394-5fc64962-4515-4cd1-b2b1-8fc3ff7d5a62.jpg)
 
 ## 10% of GDP requirement
 Under the risk case, we studied the 95th percentile of any distributions used, and moved from

@@ -3,24 +3,27 @@
 
 ![Screen Shot 2023-04-05 at 1 31 21 pm](https://user-images.githubusercontent.com/113433410/229974659-90011af1-fed2-48bc-a19c-74ded0291111.jpg)
 
-Table of Contents
-=================
-	* [Executive Summary]
-	* [Objectives]
-	* [Program Design]
-	* [Pricing and Risk Mitigation]
-	  * [Pricing for Involuntary Relocation]
-	  * [Pricing for Voluntary Relocation]
-	  * [Results]
-	* [Risk Considerations]
-	  * [Risks and Mitigation]
-	  * [Severity Ranking for Risks]
-	  * [Costs with and without the program]
-	  * [10% of GDP requirement]
-	* [Assumptions]
-	* [Data and Data Limitations]
-	* [References]
+# Table of contents
 
+# Table of contents
+
+- [Case Story](#case-story)
+- [Executive Summary](#executive-summary)
+- [Objectives](#objectives)
+- [Program Design](#program-design)
+- [Pricing and Risk Mitigation](#pricing-and-risk-mitigation)
+  - [Pricing for Involuntary Relocation](#pricing-for-involuntary-relocation)
+  - [Pricing for Voluntary Relocation](#pricing-for-voluntary-relocation)
+  - [Results](#results)
+- [Risk Considerations](#risk-considerations)
+  - [Risks and Mitigation](#risks-and-mitigation)
+  - [Severity Ranking for Risks](#severity-ranking-for-risks)
+  - [Costs with and without the program](#costs-with-and-without-the-program)
+  - [10% of GDP requirement](#10-of-gdp-requirement)
+- [Assumptions](#assumptions)
+- [Data and Data Limitations](#data-and-data-limitations)
+- [References](#references)
+	
 # Case Story
 
 Storslysia has a diverse geography with various regions that are susceptible to a wide range of

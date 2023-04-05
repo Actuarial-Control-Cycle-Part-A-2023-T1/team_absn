@@ -400,11 +400,8 @@ remained constant over time
 o For the following metrics: population, worldwide GDP and SSP, 150 years
 forecast was given in 10-year increments
 o It was assumed that the growth rate is constant within the 10-year increments.
-The calculation is as follows: 1 + 𝑔 = 􁉀
-􀯀􀮽􀯉􀰮􀰬􀰯􀰬
-􀯀􀮽􀯉􀰮􀰬􀰮􀰬
-􁉁
-􀬴.􀬵
+The calculation is as follows:
+![338311504_9117659464972012_6568961264562888373_n](https://user-images.githubusercontent.com/113433410/229980320-614e4df2-c929-4730-a995-307f1e1eba31.png)
 o Note: Storslysia’s GDP is assumed to follow the worldwide GDP growth rate
  Storslysia follows similar trends to the United States
 o Assumed that food costs used in the ‘food assistance package’ of our scheme

@@ -170,7 +170,7 @@ to be constant over time.
 
 ### Houses Destroyed per Event
 To calculate the number of houses destroyed per event, the following formula was used:
-![338404720_143331791793545_8051804042057641537_n](https://user-images.githubusercontent.com/113433410/229979622-a4e86f39-9a91-4cb8-b552-3bf84a95edb9.jpg)
+![338404720_143331791793545_8051804042057641537_n](https://user-images.githubusercontent.com/113433410/229981032-edccfe94-8aea-4682-83f0-242c5af32e66.jpg)
 
 The number of houses was assumed to be increasing over time. For each year, the number of
 houses/hectare was calculated using the given size of each region. The number of hectares

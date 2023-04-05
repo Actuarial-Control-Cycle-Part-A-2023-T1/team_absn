@@ -192,6 +192,7 @@ create the forecast with a degree of
 randomness, the errors from the fit were
 bootstrapped to create the forecast shown in
 red in Figure 1.
+![Screen Shot 2023-04-05 at 12 01 11 pm](https://user-images.githubusercontent.com/113433410/229972397-7f0be01c-82c4-4bed-998d-d1271c0c1974.jpg)
 
 ### GDP
 The GDP of Storslysia was assumed to grow at the same rate as the worldwide GDP, which

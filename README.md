@@ -233,6 +233,8 @@ accumulated costs as nominal amounts while Figure Y shows these costs as a perce
 GDP. These figures span for the proposed lifetime of the program, with obvious revaluations
 needed periodically.
 
+![Screen Shot 2023-04-05 at 12 01 51 pm 1](https://user-images.githubusercontent.com/113433410/229972935-ea55cf4a-e26e-418e-ae9c-a6d59abcc907.jpg)
+
 From Figure 2, we can see that the cost of the program is increasing over time, but the
 cost/GDP is decreasing over time (Figure 3). This indicated that the GDP is increasing faster
 than the costs, which is an assumption based on the growth of global GDP. Storslysia started

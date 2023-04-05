@@ -226,6 +226,8 @@ The expected program costs in millions of ꝕ and this cost as a percentage of t
 shown below. The full results (annual projections until 2050 and projections every 10 years
 thereafter) can be found in Appendix B.
 
+![Screen Shot 2023-04-05 at 12 01 29 pm](https://user-images.githubusercontent.com/113433410/229972678-d68f1112-5bb9-4008-af79-89c7366de715.jpg)
+
 These results are also graphically shown below in Figures 2 and 3, with Figure 2 showing the
 accumulated costs as nominal amounts while Figure Y shows these costs as a percentage of
 GDP. These figures span for the proposed lifetime of the program, with obvious revaluations

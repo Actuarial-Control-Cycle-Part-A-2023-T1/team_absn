@@ -143,7 +143,7 @@ To price the involuntary/reactive relocation scheme, an expected price was used,
 an estimate for the 95th percentile of the cost of the program as a “worst-case” or “risk”
 scenario. The price for involuntary relocation was broken down into several components:
 
-$$ Cost = \frac{Cost}{Person\ Relocated}\times\frac{People\ Relocated}{House\ Destroyed}\times\frac{Houses\ Destroyed}{Event}\timesOf\ Events\times Inflation$$
+![340126303_556576503291896_5791329935269706156_n](https://user-images.githubusercontent.com/113433410/229981162-48b05163-404e-4ed6-ad19-4cf54f662ee3.jpg)
 
 This was also determined as a percentage of the expected GDP in order to find a value that is
 more easily comparable over years.
@@ -160,7 +160,7 @@ food in the United States. The proportion of people in each region of Storslysia
 and assumed to be constant.
 
 Then, the expected cost per person (𝐶) was found to be:
-𝐸(𝐶) = (proportion in poverty) × (food costs) + housing costs
+![339993486_1438197670253611_5946937056207603662_n](https://user-images.githubusercontent.com/113433410/229981158-92769030-ce97-4281-9377-148a7f18e94f.jpg)
 ![Screen Shot 2023-04-05 at 11 59 48 am](https://user-images.githubusercontent.com/113433410/229969087-9fc95be4-7243-4a0f-a9d6-b357626bddd0.jpg)
 
 ### People Relocated per House Destroyed

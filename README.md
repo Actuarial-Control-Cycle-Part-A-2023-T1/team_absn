@@ -5,8 +5,6 @@
 
 # Table of contents
 
-# Table of contents
-
 - [Case Story](#case-story)
 - [Executive Summary](#executive-summary)
 - [Objectives](#objectives)
@@ -27,7 +25,7 @@
 # Case Story
 
 Storslysia has a diverse geography with various regions that are susceptible to a wide range of
-climate – related catastrophes and natural disasters. Climate change will cause the impacts of the
+climate–related catastrophes and natural disasters. Climate change will cause the impacts of the
 disaster to increase overtime and poses the constant of displacement to the residents. To mitigate
 these risk and minimise financial losses due to mass displacement ASBN has been tasked to design
 a social insurance program for relocation. The proposed program is divided into two parts, one for
@@ -45,7 +43,7 @@ would be protected against displacement in the case of involuntary displacement,
 encouraging voluntary relocation in order to reduce the potential of future displacement,
 particularly in areas at high risk of hazard.
 
-In the case of involuntary displacement, houses are severely damaged as a result of climaterelated
+In the case of involuntary displacement, houses are severely damaged as a result of climate-related
 events or natural disasters, to the point that the house becomes unliveable. In this
 situation, individuals are displaced from their homes, either needing to search for alternative
 accommodation or becoming homeless while their homes are rebuilt. Rebuilding a home
@@ -72,14 +70,15 @@ relocation for future sustainability.
 # Objectives
 
 The main objective of this insurance program is to incentivise residents of high-risk areas to
-migrate to lower-risk regions. High risk regions were defined as regions 4-6, while the lowerrisk
-regions were 1-3.
+migrate to lower-risk regions. **High risk regions** were defined as regions 4-6, while the **lower risk
+regions** were 1-3.
 
 A secondary objective was to ensure that any residents of Storslysia whose house is damaged
 had accommodation options in the interim while their house is rebuilt. This was the
 involuntary relocation scheme and involved temporary relocation for one year.
 
 # Program Design
+
 The insurance scheme aims to provide coverage for involuntary displacement, while
 encouraging voluntary relocation. While voluntary relocation is our preferred method of
 protection, this may not be a customer’s first preference due to the high economic costs
@@ -135,10 +134,12 @@ This will allow us to use the first year of historical data to modify our projec
 necessary changes to lump sum benefits if needed.
 
 # Pricing and Risk Mitigation
+
 According to the project design, annual project costs were projected over the 25 years starting
 2025, and from 2050 onwards, estimates were taken every 10 years.
 
 ## Pricing for Involuntary Relocation
+
 To price the involuntary/reactive relocation scheme, an expected price was used, followed by
 an estimate for the 95th percentile of the cost of the program as a “worst-case” or “risk”
 scenario. The price for involuntary relocation was broken down into several components:
@@ -164,7 +165,6 @@ Then, the expected cost per person (𝐶) was found to be:
 ![Screen Shot 2023-04-05 at 11 59 48 am](https://user-images.githubusercontent.com/113433410/229969087-9fc95be4-7243-4a0f-a9d6-b357626bddd0.jpg)
 
 ### People Relocated per House Destroyed
-
 This was assumed to be the number of people per household, which was given and assumed
 to be constant over time.
 
@@ -183,7 +183,7 @@ destroyed houses gave a number of houses destroyed for each event severity in ea
 
 ### Number of Events
 The number of events was determined using historical data. Events were filtered by whether
-they had property damages above ꝕ 0. These damaged were inflation adjusted to be in terms
+they had property damages above ꝕ0. These damages were inflation adjusted to be in terms
 of 2020 dollars so that values could be fairly compared.
 
 These events were classified into three groups: minor, medium, and major based upon being
@@ -199,21 +199,13 @@ These numbers were then accelerated over the years due to climate change affects
 SSP2-3.4 index for the average case and the SSP3-6 index for the risk case.
 
 ### Inflation
-To forecast future inflation rates, inflation
-rates between 2000 and 2015 were used.
-This was in order to avoid historical trends
-(which generally do not have a huge impact
-of inflation) and also avoid the impact of
-COVID-19 (which would have caused a
-forecast to assume sub-zero inflation far into
-the future). An exponential smoothing model
-was fitted in r, with multiplicative errors, an
-additive but dampening trend and no
-seasonality (an 𝐸𝑇𝑆(𝑀, 𝐴􀯗 , 𝑁) model). To
-create the forecast with a degree of
-randomness, the errors from the fit were
-bootstrapped to create the forecast shown in
-red in Figure 1.
+To forecast future inflation rates, inflation rates between 2000 and 2015 were used. This was
+in order to avoid historical trends (which generally do not have a huge impact of inflation)
+and also avoid the impact of COVID-19 (which would have caused a forecast to assume sub-zero 
+inflation far into the future). An exponential smoothing model was fitted in r, with 
+multiplicative errors, an additive but dampening trend and no seasonality (an ETS(M, Ad, N) 
+model). To create the forecast with a degree of randomness, the errors from the fit were
+bootstrapped to create the forecast shown in red in Figure 1.
 ![338626909_5588866337879754_2731671411747677023_n](https://user-images.githubusercontent.com/113433410/229975075-8447959e-f41d-42fb-a764-46386a355ee8.jpg)
 
 ### GDP
@@ -227,11 +219,12 @@ region per year was found and multiplied by the cost of relocation for each pers
 accumulated across regions to be a national cost for the country and adjusted for inflation.
 
 ## Pricing for Voluntary Relocation
+
 Every ten years, when a relocation period occurs, the cost per region is calculated as the
 formula:
 ![338312046_3764538767107099_9180676805544608062_n](https://user-images.githubusercontent.com/113433410/229979997-2cf712e5-274f-42e3-aeba-3e9e38a07287.jpg)
 The benefit amount was region-dependent, with a lump sum equivalent to half of the perperson
-cost calculated previously for temporary housing. This was approximately ꝕ 10,000
+cost calculated previously for temporary housing. This was approximately ꝕ10,000
 per person, chosen to ensure that voluntary relocation was cheaper on a per-person basis to
 the government than involuntary relocation.
 
@@ -245,8 +238,7 @@ to relocate in each subsequent relocation period.
 # Results
 
 The expected program costs in millions of ꝕ and this cost as a percentage of the GDP is
-shown below. The full results (annual projections until 2050 and projections every 10 years
-thereafter) can be found in Appendix B.
+shown below.
 
 ![Screen Shot 2023-04-05 at 12 01 29 pm](https://user-images.githubusercontent.com/113433410/229972678-d68f1112-5bb9-4008-af79-89c7366de715.jpg)
 
@@ -289,47 +281,47 @@ from the same individuals.
 ## Risks and Mitigation
 
 ### Risk 1 – Changes in Climate
- Changes in climate are often unpredictable, even with current predictive technology,
+Changes in climate are often unpredictable, even with current predictive technology,
 and depending on the frequency and intensity of natural disasters it could drastically
-impact the program.
- The model is based on the severity of the event which has classifications as minor,
-medium and major but depending on the climate different event may change in
+impact the program. The model is based on the severity of the event which has classifications 
+as minor, medium and major but depending on the climate different event may change in
 classification and render the model ineffective.
-Mitigation: The disaster severity model should be re-evaluated yearly, incorporating
+**Mitigation:** The disaster severity model should be re-evaluated yearly, incorporating
 historical climate-catastrophe data, and ensuring it is still relevant. The prediction of future
 events should also be re-formulated yearly to confirm the fund level is still at a surplus.
 
 ### Risk 2 – Economic Shocks
- Sudden changes to interest rates, inflation, and exchange rates as well as any other
+Sudden changes to interest rates, inflation, and exchange rates as well as any other
 unforeseen changes in the economy could severely impact our pricing scheme.
- Catastrophic events such as COVID-19, may impact the economy and stunt
+Catastrophic events such as COVID-19, may impact the economy and stunt
 population growth, hence making our model redundant.
-Mitigation: Constant monitoring of relevant economic variables to ensure that any changes
+**Mitigation:** Constant monitoring of relevant economic variables to ensure that any changes
 are inputted immediately. Revaluating the funds surplus level frequently to incorporate the
 economic changes will be required to ensure that sufficient funds are available to sustain the
 scheme.
 
 ### Risk 3 – Accessibility to work following relocation
- While we provide incentives for residents living in high-risk regions to move to lowrisk
-regions, accessibility to current work may decrease.
- This may in turn, decrease the appeal to voluntarily relocate.
-Mitigation: Considering feedback from residents, in particular those who choose to opt out of
+While we provide incentives for residents living in high-risk regions to move to lowrisk
+regions, accessibility to current work may decrease. This may in turn, decrease the appeal 
+to voluntarily relocate.
+**Mitigation:** Considering feedback from residents, in particular those who choose to opt out of
 the voluntary relocation scheme, the payout may be increased to include an unemployment
 benefit for a period of time.
 
 ### Risk 4 – Holding of Assumptions
- Most of our insurance scheme model is highly reliant on several assumptions we have
+Most of our insurance scheme model is highly reliant on several assumptions we have
 made, listed further in the report
-Mitigation: Review the assumptions and model yearly, to ensure that appropriate assumptions
+**Mitigation:** Review the assumptions and model yearly, to ensure that appropriate assumptions
 still hold, and modifying assumptions that no longer hold.
 
 ### Other Risks
- Large events that may cause sudden increases in the number of claims – Storslysian
+* Large events that may cause sudden increases in the number of claims – Storslysian
 government will need to account for the funding in this scenario
- Implementation risk – the risk that there is some issue with the implementation of the
+* Implementation risk – the risk that there is some issue with the implementation of the
 insurance program
 
 ## Severity Ranking for Risks
+
 The four main risks were ranked in order of severity, starting from 1, being the least
 impactful, Minor, followed by 2, Minor, 3, Major and 4, Catastrophic. This was followed by
 assessing the probability of each risk occurring. After consideration, we ranked our main
@@ -341,82 +333,54 @@ matrix can be seen below in Figure 4.
 
 ## Costs with and without the program
 
-This program in Storslysia is the first program
-of the sort by the Storslysian government.
-Thus, the cost to the government before this
-program should have been 0, as previously
-there were no similar programs and residents
-paid for their own home and contents
-insurance. If we simply compare the past
-property damage values with the future
-projected costs, we can see that property
-damage per year is usually only a few million,
-sometimes reaching a billion. However, the
-projected program costs are over 1 billion
-every year, so this program may be a bit more
-expensive than the previous program. The past
+This program in Storslysia is the first program of the sort by the Storslysian government.
+Thus, the cost to the government before this program should have been 0, as previously
+there were no similar programs and residents paid for their own home and contents
+insurance. If we simply compare the past property damage values with the future
+projected costs, we can see that property damage per year is usually only a few million,
+sometimes reaching a billion. However, the projected program costs are over 1 billion
+every year, so this program may be a bit more expensive than the previous program. The past
 property damage is visible in Figure 5 below.
 
 ![338830327_214214061215786_6072662416248683933_n](https://user-images.githubusercontent.com/113433410/229975394-5fc64962-4515-4cd1-b2b1-8fc3ff7d5a62.jpg)
 
 ## 10% of GDP requirement
+
 Under the risk case, we studied the 95th percentile of any distributions used, and moved from
 using SSP2-3.4 to SSP3-6. This then created the “risk case” outlined above. In this case, costs
 will be below 10% of GDP after 2035, and until then the government may need to consider
 some alternative sources of funding.
 
 # Assumptions
- Historical Property Damage Quantiles
-o Assumed quantiles of 0%-55%, 55%-85% and 85%-100% to classify impacts
-of a natural disaster as minor, medium and major, respectively.
-o These levels were tested and chosen as they provided the most feasible
-number of events under each disaster classification
- Future Property Damage Index
-o For future property damage, a disaster severity index was developed, which
-classifies the impacts of a natural disaster as either minor, medium, or major
-based on the damage caused per hectare
-o Assumed values of 300, 3000 and 30000 hectares for a minor, medium, and
-major event respectively
-o A similar disaster classification system has been used by Gad-el-Hak (2009),
-which classified disasters based on their geographical area impact.
-o It was also assumed that a constant proportion of affected houses would be left
-inhabitable from damage.
- Home and Contents Insurance
-o Assumed that all residents in Storslysia have home & contents insurance and
-hence in the event of a climate-catastrophe, they are covered for the rebuilding
-and repairing of their property.
-o Current costs provided by our scheme only cover temporary relocation costs
-or associated moving costs.
-
-Housing units growth rate
-o Calculated that the housing units growth rate from 2021-2022 by assuming all
-building permits in 2021 was completed in 2022 and made up the total new
-housing units 2022.
-o The growth rate from 2021-2022 was taken as a constant for the future years
- Number of people per household
-o Assumed that the given number of people per household for each region
-remained constant over time
- Growth rate
-o For the following metrics: population, worldwide GDP and SSP, 150 years
-forecast was given in 10-year increments
-o It was assumed that the growth rate is constant within the 10-year increments.
-The calculation is as follows:
+* **Historical Property Damage Quantiles**
+	* Assumed quantiles of 0%-55%, 55%-85% and 85%-100% to classify impacts of a natural disaster as minor, medium and major, respectively.
+	* These levels were tested and chosen as they provided the most feasible number of events under each disaster classification
+* **Future Property Damage Index**
+	* For future property damage, a disaster severity index was developed, which classifies the impacts of a natural disaster as either minor, medium, or major based on the damage caused per hectare
+	* Assumed values of 300, 3000 and 30000 hectares for a minor, medium, and major event respectively
+	* A similar disaster classification system has been used by Gad-el-Hak (2009), which classified disasters based on their geographical area impact.
+	* It was also assumed that a constant proportion of affected houses would be left inhabitable from damage.
+* **Home and Contents Insurance**
+	* Assumed that all residents in Storslysia have home & contents insurance and hence in the event of a climate-catastrophe, they are covered for the rebuilding and repairing of their property.
+	* Current costs provided by our scheme only cover temporary relocation costs or associated moving costs.
+* **Housing units growth rate**
+	* Calculated that the housing units growth rate from 2021-2022 by assuming all building permits in 2021 was completed in 2022 and made up the total new housing units 2022.
+	* The growth rate from 2021-2022 was taken as a constant for the future years
+* **Number of people per household**
+	* Assumed that the given number of people per household for each region remained constant over time
+* **Growth rate**
+	* For the following metrics: population, worldwide GDP and SSP, 150 years forecast was given in 10-year increments
+	* It was assumed that the growth rate is constant within the 10-year increments. The calculation is as follows:
 ![338311504_9117659464972012_6568961264562888373_n](https://user-images.githubusercontent.com/113433410/229980320-614e4df2-c929-4730-a995-307f1e1eba31.png)
-o Note: Storslysia’s GDP is assumed to follow the worldwide GDP growth rate
- Storslysia follows similar trends to the United States
-o Assumed that food costs used in the ‘food assistance package’ of our scheme
-follow the same average costs (per day and per person) as those of the US.
- Claims filing and processing costs
-o It was assumed that there were no costs of filing and/or processing claims
-(claims would be made, verified, and distributed with negligible costs)
-
-Percentage of people in poverty is constant over time
- SSP2-3.4 and SSP3-6
-o Storslysia follows the SSP2-3.4 index in the normal scenario as this scenario
-follows historical trends.
-
-The risk case follows SSP3-6 as this is the case in which emissions of
-greenhouse gasses are not reduced
+	* Note: Storslysia’s GDP is assumed to follow the worldwide GDP growth rate
+* **Storslysia follows similar trends to the United States**
+	* Assumed that food costs used in the ‘food assistance package’ of our scheme follow the same average costs (per day and per person) as those of the US.
+* **Claims filing and processing costs**
+	* It was assumed that there were no costs of filing and/or processing claims (claims would be made, verified, and distributed with negligible costs)
+* **Percentage of people in poverty is constant over time**
+* **SSP2-3.4 and SSP3-6**
+	* Storslysia follows the SSP2-3.4 index in the normal scenario as this scenario follows historical trends.
+	* The risk case follows SSP3-6 as this is the case in which emissions of greenhouse gasses are not reduced
 
 # Data and Data Limitations
 
@@ -455,7 +419,8 @@ figures where certain values were missing or were at an unreasonable level, for 
 approximately -900% inflation. In this instance, the value was replaced with the average of
 the year before and year after, impacting the possible accuracy of inflation projections and
 inflation adjusted historical figures.
-Th quality of this report’s projections, and its understanding of Storslysia’s climate is limited
+
+The quality of this report’s projections, and its understanding of Storslysia’s climate is limited
 to what can be gained by the data that has been provided. While insufficient data does not
 make the implementation of a displacement related social insurance scheme impossible, after
 its implementation, thorough and frequent reviews of the effectiveness, costs and direction of
@@ -468,14 +433,17 @@ Average Food Cost per Month in 2023 | Balancing Everything (2021). Available at:
 https://balancingeverything.com/average-food-cost-permonth/#:~:
 text=In%20the%20United%20States%2C%20the,day%20per%20person%20is%2
 0%2411.04 (Accessed: 23 March 2023).
+
 Gad-El-Hak, M. (2009) “The art and science of large-scale disasters,” Bulletin of the Polish
 Academy of Sciences: Technical Sciences, 57(1), pp. 3–34. Available at:
 https://doi.org/10.2478/v10175-010-0101-8.
+
 Heidenry, M. (2022) How long does it take to build a house?, Real Estate News &amp;
 Insights | realtor.com®. Available at: https://www.realtor.com/advice/buy/how-long-does-ittake-
 to-build-ahouse/#:~:
 text=The%20U.S.%20Census%20Bureau's%20most,new%20privately%20owned
 %20residential%20buildings. (Accessed: 23 March, 2023).
+
 UN High Commissioner for Refugees (UNHCR), Guidance on Protecting People From
 Disasters and Environmental Change Through Planned Relocation ("Guidance on Planned
 Relocation"), 7 October 2015, available at: https://www.refworld.org/docid/596f15284.html

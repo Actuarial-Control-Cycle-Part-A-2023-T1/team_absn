@@ -335,6 +335,8 @@ every year, so this program may be a bit more
 expensive than the previous program. The past
 property damage is visible in Figure 5 below.
 
+![Screen Shot 2023-04-05 at 12 02 23 pm](https://user-images.githubusercontent.com/113433410/229973436-a3ef4789-998e-4e16-9528-d4bd04a53001.jpg)
+
 ## 10% of GDP requirement
 Under the risk case, we studied the 95th percentile of any distributions used, and moved from
 using SSP2-3.4 to SSP3-6. This then created the “risk case” outlined above. In this case, costs

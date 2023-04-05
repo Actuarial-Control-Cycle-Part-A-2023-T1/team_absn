@@ -315,6 +315,8 @@ risks in order of riskiness as follows: Risk 1, 2, 3, and 4. Diagrammatically, t
 the matrix displays the highest risks, while the bottom left displays the lowest in risk. The full
 matrix can be seen below in Figure 4.
 
+![Screen Shot 2023-04-05 at 12 02 11 pm](https://user-images.githubusercontent.com/113433410/229973079-285c734a-21a8-4b04-89b8-032a2bfa181e.jpg)
+
 ## Costs with and without the program
 
 This program in Storslysia is the first program

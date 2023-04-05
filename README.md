@@ -317,7 +317,7 @@ risks in order of riskiness as follows: Risk 1, 2, 3, and 4. Diagrammatically, t
 the matrix displays the highest risks, while the bottom left displays the lowest in risk. The full
 matrix can be seen below in Figure 4.
 
-![Screen Shot 2023-04-05 at 12 02 11 pm](https://user-images.githubusercontent.com/113433410/229973079-285c734a-21a8-4b04-89b8-032a2bfa181e.jpg)
+![338174341_1870541679998753_6540041881972548009_n](https://user-images.githubusercontent.com/113433410/229975251-d42a3fa4-593f-4bb0-a5b4-066ccb5fd65e.jpg)
 
 ## Costs with and without the program
 

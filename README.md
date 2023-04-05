@@ -143,7 +143,7 @@ To price the involuntary/reactive relocation scheme, an expected price was used,
 an estimate for the 95th percentile of the cost of the program as a “worst-case” or “risk”
 scenario. The price for involuntary relocation was broken down into several components:
 
-$$ Cost=Cost/(person\ relocated)\times(people\ relocated)/(house\ destroyed)\times(houses\ destroyed)/event\times(number of events)×inflation$$
+$$ Cost = \frac{Cost}{Person\ Relocated}\times\frac{People\ Relocated}{House\ Destroyed}\times\frac{Houses\ Destroyed}{Event}\times \indent \indent \indent Number\ Of\ Events\times Inflation$$
 
 This was also determined as a percentage of the expected GDP in order to find a value that is
 more easily comparable over years.

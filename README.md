@@ -229,7 +229,7 @@ accumulated across regions to be a national cost for the country and adjusted fo
 ## Pricing for Voluntary Relocation
 Every ten years, when a relocation period occurs, the cost per region is calculated as the
 formula:
-𝐶𝑜𝑠𝑡􀯏􀯢􀯟􀯨􀯡􀯧􀯔􀯥􀯬 = 𝑛􀯋􀯘􀯟􀯢􀯖􀯔􀯧􀯜􀯡 × benefit amount
+![338312046_3764538767107099_9180676805544608062_n](https://user-images.githubusercontent.com/113433410/229979997-2cf712e5-274f-42e3-aeba-3e9e38a07287.jpg)
 The benefit amount was region-dependent, with a lump sum equivalent to half of the perperson
 cost calculated previously for temporary housing. This was approximately ꝕ 10,000
 per person, chosen to ensure that voluntary relocation was cheaper on a per-person basis to

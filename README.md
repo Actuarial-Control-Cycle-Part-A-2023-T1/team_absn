@@ -1,7 +1,7 @@
 
 # Group ABSN Case Report
 
-![338643002_1220892358787436_1537389726704688137_n](https://user-images.githubusercontent.com/113433410/229973917-7cc79d2b-c6a7-4821-bb96-5cffadb35c7c.jpg)
+![Screen Shot 2023-04-05 at 1 31 21 pm](https://user-images.githubusercontent.com/113433410/229974659-90011af1-fed2-48bc-a19c-74ded0291111.jpg)
 
 # Executive Summary
 

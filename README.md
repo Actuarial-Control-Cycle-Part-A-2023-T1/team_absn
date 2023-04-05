@@ -286,6 +286,7 @@ and depending on the frequency and intensity of natural disasters it could drast
 impact the program. The model is based on the severity of the event which has classifications 
 as minor, medium and major but depending on the climate different event may change in
 classification and render the model ineffective.
+
 **Mitigation:** The disaster severity model should be re-evaluated yearly, incorporating
 historical climate-catastrophe data, and ensuring it is still relevant. The prediction of future
 events should also be re-formulated yearly to confirm the fund level is still at a surplus.
@@ -295,6 +296,7 @@ Sudden changes to interest rates, inflation, and exchange rates as well as any o
 unforeseen changes in the economy could severely impact our pricing scheme.
 Catastrophic events such as COVID-19, may impact the economy and stunt
 population growth, hence making our model redundant.
+
 **Mitigation:** Constant monitoring of relevant economic variables to ensure that any changes
 are inputted immediately. Revaluating the funds surplus level frequently to incorporate the
 economic changes will be required to ensure that sufficient funds are available to sustain the
@@ -304,13 +306,15 @@ scheme.
 While we provide incentives for residents living in high-risk regions to move to lowrisk
 regions, accessibility to current work may decrease. This may in turn, decrease the appeal 
 to voluntarily relocate.
+
 **Mitigation:** Considering feedback from residents, in particular those who choose to opt out of
 the voluntary relocation scheme, the payout may be increased to include an unemployment
 benefit for a period of time.
 
 ### Risk 4 – Holding of Assumptions
 Most of our insurance scheme model is highly reliant on several assumptions we have
-made, listed further in the report
+made, listed further in the report.
+
 **Mitigation:** Review the assumptions and model yearly, to ensure that appropriate assumptions
 still hold, and modifying assumptions that no longer hold.
 
